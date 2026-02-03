@@ -1,4 +1,4 @@
-# Sentimental-Analysis-of-Amazon-Customer-Reviews-Sentimental-Analysis-of-Amazon-Customer-Reviews
+# Sentimental-Analysis-of-Amazon-Customer-Reviews
 
 Application_1: Sentimental Analysis.
 
